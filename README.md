@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/Gunlok28/Gunesh-Upadhye/assets/149050001/090567db-4b37-4155-a2f6-8eae7390474a)
+
 <h1 align="center">Hi 👋, I'm Gunesh Upadhye</h1>
 <h3 align="center">fueled business analysis using organization-specific abilities and clean business data, and developed software using AI power tools. </h3>
 
